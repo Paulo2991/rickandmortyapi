@@ -20,4 +20,28 @@
 
 ## Instalação:
 
+Clonar Repositorio - Link: 
+
+```
+git clone git@github.com:devalbertomoiseis/rickandmortyapi.git
+```
+
+1 - Instalar npm:
+```
+npm install
+```
+2 - Instalar Style-Components:
+```
+npm install style-components
+```
+3 - Instalar Axios:
+```
+npm install axios
+```
+4 - Rodar Projeto:
+```
+npm run dev
+```
+
+
 
